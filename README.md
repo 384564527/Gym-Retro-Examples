@@ -16,5 +16,5 @@ Rom files are not included due to copyright concerns. You need to provide your o
 3. Space Invaders (Japan).nes
 4. Super Mario Bros. (World).nes
 
-DQN takes a lot of ram. 50000 memory size with 4 staked frames converted to grayscale and downsampled 2X still takes approximately 22 GB!
-It also took about 8ish hours to train 250 games on Super Mario and 5ish hours to train 250 games on Ms. Pacman and they both still need more training. If using Google Colab remember that they limit you to approximately 12 hours for GPU backend. Colab might also disconnect the environemnt earlier if tab is not active.
+DQN takes a lot of ram. 50000 memory size with 4 stacked frames converted to grayscale and downsampled 2X still takes approximately 22 GB!
+It also took about 8ish hours to train 250 games on Super Mario and 5ish hours to train 250 games on Ms. Pacman and they both still need more training. If using Google Colab remember that they limit you to approximately 12 hours for GPU backend. Colab might also disconnect the environment earlier if tab is not active.
